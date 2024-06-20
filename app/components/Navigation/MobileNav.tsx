@@ -20,19 +20,19 @@ const MobileNav = ({closeNav,nav}:Props) => {
                 </li>
 
                 <li className='text-[25px] cursor-pointer text-white hover:text-yellow-300 transition-all duration-200'>
-                    <Link href='/'>About</Link>
+                    <Link href='/about'>About</Link>
                 </li>
 
                 <li className='text-[25px] cursor-pointer text-white hover:text-yellow-300 transition-all duration-200'>
-                    <Link href='/'>Services</Link>
+                    <Link href='/services'>Services</Link>
                 </li>
 
                 <li className='text-[25px] cursor-pointer text-white hover:text-yellow-300 transition-all duration-200'>
-                    <Link href='/'>Customer</Link>
+                    <Link href='/customer'>Customer</Link>
                 </li>
 
                 <li className='text-[25px] cursor-pointer text-white hover:text-yellow-300 transition-all duration-200'>
-                    <Link href='/'>Blog</Link>
+                    <Link href='/blog'>Blog</Link>
                 </li>
             </ul>
   </div>
